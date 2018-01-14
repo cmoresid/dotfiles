@@ -1,0 +1,87 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/cmoreside/Velocity/Black/" . "BlackOps/")
+ ("/Users/cmoreside/Velocity/" . "Black/")
+ ("/Users/cmoreside/Projects/kv/" . "lib/")
+ ("/Users/cmoreside/Velocity/Black/black-ops-codes/lib/" . "errors/")
+ ("/Users/cmoreside/Velocity/Black/black-ops-codes/" . "lib/")
+ ("/Users/cmoreside/" . "Velocity/")
+ ("/Users/cmoreside/.emacs.d/" . "customizations/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/cmoreside/"
+ "/Users/cmoreside/Velocity/Black/BlackOps/"
+ "/Users/cmoreside/Projects/kv/lib/kv/"
+ "/Users/cmoreside/Projects/kv/test/"
+ "/Users/cmoreside/.emacs.d/"
+ "/Users/cmoreside/.emacs.d/customizations/"
+ "/Users/cmoreside/Velocity/Black/black-ops-codes/lib/"
+ "/Users/cmoreside/Projects/TypeScript-Node-Starter/"
+ "/Users/cmoreside/Projects/TypeScript-Node-Starter/src/config/"
+ "/Users/cmoreside/Velocity/Black/black-ops-codes/lib/errors/"
+ "/Users/cmoreside/Velocity/Black/black-ops-codes/"
+ "/Users/cmoreside/Documents/"
+ "/Users/cmoreside/.emacs.d/themes/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".zshrc"
+ ".bash_profile"
+ "Dockerfile.dev"
+ "bucket.ex"
+ "bucket_test.exs"
+ "init.el"
+ "ui.el"
+ "editing.el"
+ "dispatch.js"
+ "javascript.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/cmoreside/" (23131 12770 0 0) "VirtualBox VMs/" "Velocity/" "Snapshots/" "Public/" "Projects/" "Pictures/" "Parallels/" "Music/" "Movies/" "Library/" "emacs.d.clojure/" "Downloads/" "Documents/" "Desktop/" "Applications (Parallels)/" "Applications/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-CM-MBP-5.2" ".yo-rc-global.json" ".yjp/" ".yarnrc" ".weechat/" ".warprc" ".vscode/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.5.8.283.41.f927b624c094e6a178b3c8977237bf1b.json" ".v8flags.5.8.283.41.cmoreside.json" ".v8flags.5.5.372.43.f927b624c094e6a178b3c8977237bf1b.json" ".v8flags.5.4.500.43.cmoreside.json" ".v8flags.5.1.281.84.f927b624c094e6a178b3c8977237bf1b.json" ".v8flags.5.1.281.84.cmoreside.json" ".v8flags.5.1.281.107.f927b624c094e6a178b3c8977237bf1b.json" ".v8flags.5.1.281.107.cmoreside.json" ".v8flags.5.1.281.103.f927b624c094e6a178b3c8977237bf1b.json" ".Trash/" ".templateengine/" ".subversion/" ".stepman/" ".stack/" ".ssh/" ".sqlite_history" ".ServiceHub/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".rediscli_history" ".rbenv/" ".Rapp.history" ".pylint.d/" ".pyenvs/" ".psql_history" ".pgpass" ".oracle_jre_usage/" ".omnisharp/" ".oh-my-zsh/" ".nvm/" ".nuget/" ".npm/" ".node_repl_history" ".node-gyp/" ".netrc" ".mono/" ".mongorc.js" ".m2/" ".local/" ".lein/" ".kube/" ".jupyter/" ".jspm/" ".ipython/" ".IdentityService/" ".gsutil/" ".gitconfig" ".ghc/" ".gem/" ".flexlmrc" ".erlang.cookie" ".emulator_console_auth_token" ".emacs~" ".emacs.d.old/" ".emacs.d/" ".DS_Store" ".dotnet/" ".docker/" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".boto" ".bitrise/" ".bashrc" ".bash_sessions/" ".bash_profile.backup" ".bash_profile" ".bash_history" ".babel.json" ".atom/" ".android/" ".3T/" "../" "./")
+
+ ("/Users/cmoreside/Velocity/Black/" (23130 21912 0 0) "VelocityBackend/" "Velocity-Web-Black/" "VBlack-Firebase-JSON/" "referral_codes.patch" "kube-stack/" "boilerplate-services/" "BlackSite/" "BlackOps/" "black-ops-membership/" "black-ops-gateway/" "black-ops-firebase/" "black-ops-email/" "black-ops-deeplink/" "black-ops-codes/" "black-ops-build/" "black-ops-auth/" "black-consumer-gateway/" ".DS_Store" "../" "./")
+
+ ("/Users/cmoreside/Velocity/" (22968 9505 0 0) "Firebase-JSON/" "ERB/" "black-ops-codes-import/" "Black/" ".DS_Store" "../" "./")
+
+ ("/Users/cmoreside/Projects/kv/lib/kv/" (23130 44299 0 0) "../" "./")
+
+ ("/Users/cmoreside/Projects/kv/test/" (23130 44170 0 0) "test_helper.exs" "kv_test.exs" "bucket_test.exs" "../" "./")
+
+ ("/Users/cmoreside/Projects/kv/lib/" (23130 43789 0 0) "kv.ex" "../" "./")
+
+ ("/Users/cmoreside/Projects/kv/" (23130 43499 0 0) "test/" "README.md" "mix.exs" "lib/" "config/" "_build/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/cmoreside/.emacs.d/" (23130 31501 0 0) "vendor/" "themes/" "projectile-bookmarks.eld" "init.el" "ido.last~" "ido.last" "fonts/" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" "../" "./")
+
+ ("/Users/cmoreside/Velocity/Black/BlackOps/" (23018 10340 0 0) "webpack.config.js" "typedoc.json" "tslint.json" "tsconfig.json" "tsconfig-aot.json" "test/" "templates/" "src/" "server/" "scripts/" "README.md" "protractor.conf.js" "Procfile" "package.json" "node_modules/" "newrelic.js" "karma.conf.js" "environment/" "env.ts" "Dockerfile.dev" "Dockerfile" "dist/" "config/" "circle.yml" "app.json" "aot/" ".sass-lint.yml" ".nvmrc" ".jsbeautifyrc" ".gitignore" ".git/" ".editorconfig" ".DS_Store" ".circleci/" "../" "./")
+
+ ("/Users/cmoreside/.emacs.d/customizations/" (23130 30549 0 0) "ui.el" "typescript.el" "shell-integration.el" "navigation.el" "misc.el" "magit-bindings.el" "javascript.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/cmoreside/Velocity/Black/BlackOps/src/app/api/" (23018 9772 0 0) "tag.ts" "member-search.ts" "login.api.ts" "index.ts" "city.api.ts" "apis.module.ts" "api.config.ts" "../" "./")
+
+ ("/Users/cmoreside/Velocity/Black/BlackOps/src/app/submodules/codes/components/tabs/manage-codes/services/" (23018 9772 0 0) "table-sort.service.ts" "table-filter.service.ts" "table-data.service.ts" "index.ts" "../" "./")
+
+ ("/Users/cmoreside/Velocity/Black/black-ops-codes/" (23130 25145 0 0) "test/" "swagger-ui/" "swagger-express-middleware-74PBvJ3KNVlzSJ/" "swagger-express-middleware-620eQDPl9NK1rU/" "swagger-express-middleware-50X4mYSSaZV3RA/" "swagger-express-middleware-26RYq6GNJO90H2/" "swagger/" "seeders/" "scripts/" "README.md" "package.json" "out/" "node_modules/" "mysql_data/" "migrations/" "lib/" "jsconfig.json" "index.js" "Dockerfile.dev" "Dockerfile" "docker-compose.yml" "deploy/" "codecov.yml" "circle.yml" "cfg/" "117818-18-qy2p7n.qo12i3haor" ".sequelizerc" ".nvmrc" ".gitignore" ".git/" ".eslintrc" ".eslintignore" ".editorconfig" ".DS_Store" ".dockerignore" ".babelrc" "../" "./")
+
+ ("/Users/cmoreside/Projects/TypeScript-Node-Starter/" (23130 22528 0 0) "yarn.lock" "views/" "tslint.json" "tsformat.json" "tsconfig.json" "test/" "src/" "README.md" "package.json" "node_modules/" "LICENSE" "dist/" "copyStaticAssets.js" ".vscode/" ".travis.yml" ".gitignore" ".git/" ".env.example" "../" "./")
+
+ ("/Users/cmoreside/Projects/TypeScript-Node-Starter/src/config/" (22808 51244 0 0) "passport.ts" "../" "./")
+
+ ("/Users/cmoreside/Velocity/Black/black-ops-codes/lib/errors/" (22965 7660 0 0) "referrers.js" "redemptions.js" "index.js" "currencies.js" "codes.js" "code-types.js" "base.js" "amounts.js" "amount-types.js" "../" "./")
+
+ ("/Users/cmoreside/Velocity/Black/black-ops-codes/lib/" (22964 54584 0 0) "services/" "routes/" "models/" "middleware/" "handlers/" "errors/" "dispatch.js" ".DS_Store" "../" "./")
+
+ ("/Users/cmoreside/Documents/" (23023 51200 0 0) "WindowsPowerShell/" "Visual Studio 2015/" "VisaApplication/" "UserImage.png" "UserImage.afdesign" "tmp/" "Taxes/" "Resumes/" "ResignationLetter.docx" "Receipts/" "projects-ebcdic-compare-tool-1.png" "prodaflow_io.zip" "prodaflow_io.csr" "prodaflow_io/" "Prodaflow.mindnode/" "My Web Sites/" "Mockups/" "LogoDesigns/" "Logo.afdesign" "LINQPad Queries/" "Invoices/" "IISExpress/" "EBooks/" "desktop.ini" "Default.rdp" "Courses/" "Contracts/" "CodeMovementLogoAssets/" "bookmarks_9_27_17.html" "200+ Startups hiring Remotely in 2016 - by Remotive.numbers" "200+ Startups hiring Remotely in 2016 - by Remotive.io.xlsx" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/cmoreside/.emacs.d/themes/" (23130 16636 0 0) "tomorrow-night-bright-theme.el" "color-theme-tomorrow.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

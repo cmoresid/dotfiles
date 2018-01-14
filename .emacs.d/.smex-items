@@ -1,0 +1,32 @@
+
+;; ----- smex-history -----
+(
+ shell
+ neotree
+ eshell
+ ansi-term
+ butterfly
+ make-directory
+ alchemist-iex-project-run
+)
+
+;; ----- smex-data -----
+(
+ (magit-status . 5)
+ (tide-rename-symbol . 1)
+ (tide-project-errors . 1)
+ (tide-refactor . 1)
+ (customize-group . 1)
+ (electric-indent-just-newline . 2)
+ (electric-indent-mode . 1)
+ (all-the-icons-install-fonts . 2)
+ (neotree . 15)
+ (alchemist-mode . 5)
+ (company-mode . 5)
+ (alchemist-iex-project-run . 1)
+ (make-directory . 1)
+ (butterfly . 1)
+ (ansi-term . 2)
+ (eshell . 2)
+ (shell . 1)
+)

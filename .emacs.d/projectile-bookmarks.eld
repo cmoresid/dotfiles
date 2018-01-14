@@ -1,0 +1,1 @@
+("~/Projects/dotfiles/" "~/Velocity/Black/BlackOps/" "~/Projects/kv/" "~/Projects/hello-elixir/" "~/Projects/HangMan/" "~/Projects/TypeScript-Node-Starter/" "~/Velocity/Black/black-ops-codes/")

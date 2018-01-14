@@ -1,0 +1,7 @@
+ls
+pwd
+which emacs
+exit
+brew update
+brew install tmux
+exit
