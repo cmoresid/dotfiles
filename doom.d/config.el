@@ -6,8 +6,8 @@
 
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email
 ;; clients, file templates and snippets.
-(setq user-full-name "Connor Moreside"
-      user-mail-address "connor.moreside@orderpay.com")
+(setq user-full-name "John Doe"
+      user-mail-address "john@doe.com")
 
 ;; Doom exposes five (optional) variables for controlling fonts in Doom. Here
 ;; are the three important ones:
@@ -35,9 +35,12 @@
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
 (setq display-line-numbers-type t)
 
+;;
 (setq evil-snipe-override-evil-repeat-keys nil)
 (setq doom-localleader-key ",")
 (setq doom-localleader-alt-key "M-,")
+
+(setq clojure-toplevel-inside-comment-form t)
 
 ;; Here are some additional functions/macros that could help you configure Doom:
 ;;
@@ -55,13 +58,3 @@
 ;;
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
-;;
-
-(defun typescript-mode-setup ()
-  (add-hook 'before-save-hook
-            'lsp-eslint-apply-all-fixes
-            nil 'local))
-
-(add-hook 'js2-mode-hook #'+javascript|add-node-modules-path)
-(add-hook 'clojure-mode-hook #'format-all-mode)
-(add-hook 'typescript-mode-hook 'typescript-mode-setup)
